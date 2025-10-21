@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.alpha {
+    background-color: rgb(238, 86, 157);
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+
+#first-div {
+    color: rgb(0, 102, 255);
+    font-size: 36px;
+}
+
+.beta {
+    font-size: 24px;
+}
+
+#second-div {
+    background-color: rgb(47, 176, 127);
+    font-size: 24px;
+    font-weight: bold;
+}
