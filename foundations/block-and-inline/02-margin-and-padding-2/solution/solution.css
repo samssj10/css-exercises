@@ -51,11 +51,13 @@ We separated it out here to make it extra clear what has changed. */
 
 .button-container {
   text-align: center;
+  /* text centering */
   padding: 8px;
 }
 
 button {
   display: block;
   margin: 0 auto;
+  /* container centering using the margin auto trick */
   padding: 8px 24px;
 }
